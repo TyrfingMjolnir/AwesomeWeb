@@ -1,5 +1,6 @@
-# AwesomeWeb
-Simply pages that stand out
+# Awesome web sites
+
+Pages that simply stand out
 
 ## Incredibly well made page in terms of bandwidth distribution
 
