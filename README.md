@@ -11,3 +11,7 @@ Pages that simply stand out
 * Fixed image sizes, there is no layout shift on load
 * Compiled ECMA, only required JS loaded
 * Using push state to change pages to give the feeling of faster than full page reload
+
+## HTMx vs React and when
+
+https://youtu.be/_YRmI-MasEA
