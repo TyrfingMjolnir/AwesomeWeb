@@ -4,6 +4,8 @@ Pages that simply stand out; this is not for you, this is my cheat sheet and lin
 
 ## Incredibly well made page in terms of bandwidth distribution
 
+https://youtu.be/-Ln-8QM8KhQ
+
 ### https://www.mcmaster.com/
 
 * Prerendered HTML documents utilized throughout; the understanding of publishing a document when product is added to database; opposed to building on demand from database.
