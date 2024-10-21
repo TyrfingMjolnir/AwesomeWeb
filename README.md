@@ -1,6 +1,6 @@
 # Awesome web sites
 
-Pages that simply stand out
+Pages that simply stand out; this is not for you, this is my cheat sheet and links for good practice when it comes to planning bandwidth distribution across the world wide wait.
 
 ## Incredibly well made page in terms of bandwidth distribution
 
